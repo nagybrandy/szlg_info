@@ -25,4 +25,4 @@ Készíts eljárást, amelyik kijut a 2,3,4,5,6,7-es pályáról is! Karesz amin
 1. A kertben lévő szemeteket piros és fekete színekkel jelöltük. Ezeket vedd le a pályáról!
 2. Sárga színnel jelöltük a virágok helyét. Ezek köré rajzolj ilyen virágot! Csak egyszer menj körbe a pályán.
 
-<img src="https://nagybrandy.github.io/szlghazik/pages/img/feladat2.png" width="500">
+<img src="https://nagybrandy.github.io/szlghazik/pages/img/pálya29.png" width="500">
