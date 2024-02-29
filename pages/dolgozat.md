@@ -1,5 +1,7 @@
 # Dolgozat 03. 01.
 
+Sok sikert! 😉
+
 # 1. feladat: Várfal
 
 1. Készíts eljárást, ami lerajzolja egy bástya körvonalát! A bástya magassága megadható legyen paraméterrel. A lentebbi képen láthatod a `bástya(6)`, `bástya(4)` és `bástya(2)` által generált rajzokat.
