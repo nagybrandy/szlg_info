@@ -21,6 +21,7 @@ Készíts eljárást, amelyik kijut a 2,3,4,5,6,7-es pályáról is! Karesz amin
 
 # 3. feladat: Kert takarítás, virágültetés
     pálya29.txt
+A következő feladatban egy kertet kell kitakarítanod, és virágokat ültetned. Ehhez a bal alsó sarokból indulj, és minden sorban ellenőrizd, hogy milyen kavicsokat tettünk le a pályára!
 
 1. A kertben lévő szemeteket piros és fekete színekkel jelöltük. Ezeket vedd le a pályáról!
 2. Sárga színnel jelöltük a virágok helyét. Ezek köré rajzolj ilyen virágot! Csak egyszer menj körbe a pályán.
