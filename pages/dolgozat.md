@@ -28,4 +28,5 @@ A következő feladatban egy kertet kell kitakarítanod, és virágokat ültetne
 1. A kertben lévő szemeteket piros és fekete színekkel jelöltük. Ezeket vedd le a pályáról! `(5 pont)`
 2. Sárga színnel jelöltük a virágok helyét. Ezek köré rajzolj ilyen virágot! Csak egyszer menj körbe a pályán. `(10 pont)`
 
+<img src="https://nagybrandy.github.io/szlghazik/pages/img/virág.png" width="200">
 <img src="https://nagybrandy.github.io/szlghazik/pages/img/palya29.png" width="500">
